@@ -21,7 +21,7 @@ To understand how `squash` interacts with various system applications, check the
 git clone https://github.com/JLErvin/squash
 cd squash
 ```
-
+l
 2)  Move themes and default configuration file into `$HOME/.config`
 
 ```sh
